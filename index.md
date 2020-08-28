@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Project 1: Spirit's Ergonomics & Safety Project
 
 You can use the [editor on GitHub](https://github.com/jonnywu5658/Jonathan-Wu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
